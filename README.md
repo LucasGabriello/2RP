@@ -3,7 +3,7 @@
 <br/>
 
 ## 🗄 Ambiente de desenvolvimento e linguagens
-
+<div align="center">
 <table>
   <tr>
   <th>Plataforma</th>
@@ -11,13 +11,13 @@
   <th>Programação</th>
   </tr>
    <tr>
-  <th><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/databricks-logo.png" width="100px;"> </th>
-  <th><img src="https://d117h1jjiq768j.cloudfront.net/images/default-source/products/datadirect/dci-logos/spark-sql-logo.png?sfvrsn=97380b7f_2" width="100px;"></th>
-  <th><img src="https://www.nobleprog.com.br/sites/hitrahr/files/category_images/height100_scale/pyspark_training.png?t=59415bb3" width="100px;"></th>
+  <th><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/databricks-logo.png" width="150px;"> </th>
+  <th><img src="https://d117h1jjiq768j.cloudfront.net/images/default-source/products/datadirect/dci-logos/spark-sql-logo.png?sfvrsn=97380b7f_2" width="150px;"></th>
+  <th><img src="https://www.nobleprog.com.br/sites/hitrahr/files/category_images/height100_scale/pyspark_training.png?t=59415bb3" width="150px;"></th>
   </tr>
-  </table>
-  
-
+</table>
+</div> 
+ 
  
 > O Databricks foi escolhido devido ao suporte de diversas linguagens e serviços em nuvem, tendo também a possibilidade de ler dados de diversas fontes.
 >  Assim como as ferramentas Spark que atendem a diversos volumes de dados.
@@ -116,5 +116,23 @@ gh repo clone LucasGabriello/2RP
 * Tipagem das colunas
 * Adicionar valor "NULL" para o padrão null do Spark
 * trocar "," por "."
+
+<hr/>
+<i>(Adicionando após o prazo de entrega)</i>
+
+## 📊 Dashboard 
+
+#### Algumas consultas no databricks geram outputs que podem ser adicionados a um dashboard através do seguinte botão da célula do notebook:
+![image](https://user-images.githubusercontent.com/22823453/155769704-2d699383-e391-46b4-9b9b-e33479793133.png)
+
+
+>Os gráficos foram criados baseados nas querys solicitadas no teste, porém com algumas pequenas mudanças de métricas.
+
+
+![image](https://user-images.githubusercontent.com/22823453/155768797-7c35bb4a-ceea-48ae-829f-706df8727980.png)
+![image](https://user-images.githubusercontent.com/22823453/155770766-0af7b5bf-0703-4a56-b064-d8af9bb2265e.png)
+![image](https://user-images.githubusercontent.com/22823453/155770940-fa689d38-274f-4ebc-8514-6a44e7ce92b9.png)
+
+
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
